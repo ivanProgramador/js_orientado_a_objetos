@@ -9,5 +9,5 @@ Apoiada em 5 pilares
 - abstração
 - composição
 
-Apatir dessa lista eu vou começar os estudos avançados 
+Apartir dessa lista eu vou começar os estudos avançados 
 */
