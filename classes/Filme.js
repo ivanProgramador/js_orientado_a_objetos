@@ -60,3 +60,16 @@ var vingadores = new Filme();
 var vingadores = new Filme();
 var hulk = new Filme();
 var starWars = new Filme();
+
+/*
+Objetos criados com base em uma classe podem ter acesso 
+aos metodos e podem tambem manipular atributos usando 
+um dos objetos acima eu vou acessar um metodo que vai 
+retornar um texto e tambem um atributo  
+
+*/
+
+vingadores.Avanca(); // esse metodo me retoan uma texto que tem dentro do metodo avançar 
+
+console.log("Titulo filme : " + vingadores.titulo); // aqui eu tenyei imprimir o titulo mas ele não retorna nada 
+
