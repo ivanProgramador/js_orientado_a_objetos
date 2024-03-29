@@ -65,11 +65,22 @@ var starWars = new Filme();
 Objetos criados com base em uma classe podem ter acesso 
 aos metodos e podem tambem manipular atributos usando 
 um dos objetos acima eu vou acessar um metodo que vai 
-retornar um texto e tambem um atributo  
+retornar um texto e tambem um atributo.
+
+caso eu tente mostrar o atributo titulo não vaia aparecer nada 
+porque para mostrar primiero eu tenho que instanciar, dizer qual 
+eo titulo do objeto.
 
 */
 
-vingadores.Avanca(); // esse metodo me retoan uma texto que tem dentro do metodo avançar 
+vingadores.titulo  = 'Vingadores';
+console.log(vingadores.titulo); //aqui ele me retona vingadores porque eu defini esse atributo na linha de cima
 
-console.log("Titulo filme : " + vingadores.titulo); // aqui eu tenyei imprimir o titulo mas ele não retorna nada 
+/*
+Embora esses 3 objetos sejam da mesma classe os tributos podem ser diferentes
+titulos diferentes, porem os metodos são iguais  
+*/
+
+
+
 
