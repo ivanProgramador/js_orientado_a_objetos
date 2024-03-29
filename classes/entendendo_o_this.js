@@ -62,7 +62,7 @@ class Filme{
    Dentro desse metodo em momento nenhum eu informo hulk.titulo para mostrar o titulo do filme
    eu so uso o "this", como ele sabe que o titulo que ele tem que mostrar e do filme hulk ?
 
-   Ele sabe porque foi o objeto hulk que que tem esse titulo quem chamou ele e assim ele vai fazer 
+   Ele sabe porque foi o objeto hulk que tem esse titulo quem chamou ele e assim ele vai fazer 
    com qualquer outro objeto que faça essa chamada. 
 
    Ficha(){
