@@ -2,16 +2,16 @@
 
 
 /*
-Todas as vezes que queremos usar um metodo de uma classe 
-temos que instanciar o objeto com base nela e depois chamar o metodo,
-porém dependendo do contexto do software isso não é viavel.
+Todas as vezes que queremos usar um método de uma classe 
+temos que instanciar o objeto com base nela e depois chamar o método,
+porém dependendo do contexto do software isso não é viável.
 
-Mas caso eu não queira fazer tudo isso bata que torne os metodos estaticos
-ai eu so chamo a classe eo metodo que eu preciso diretamente.
+Mas caso eu não queira fazer tudo isso basta que eu torne os métodos estáticos
+ai eu só preciso chamar classe e depois o método que eu preciso diretamente.
 
-no caso abaixo eu fiz a classe calculadora com 2 metodos e a palavra static 
-avisa aoa processador que esses metodd tem a lgica estatica e que eu 
-não preciso de um objeto para usar ele. 
+no caso abaixo eu fiz a classe calculadora com 2 métodos e a palavra static 
+avisa ao processador que esses métodos tem a lógica estática e que eu 
+não preciso de um objeto para usar eles. 
 
 */
 
@@ -25,8 +25,8 @@ class Calculadora{
 }
 
 /*
-Usando um metodo estatico chamando direto da classe,
-isso evita que eu tenha que colocar mais uma varivela na memoria sem
+Usando métodos estáticos chamando direto da classe,
+isso evita que eu tenha que colocar mais uma varivel na memoria sem
 necessiddade.  
 */
 
