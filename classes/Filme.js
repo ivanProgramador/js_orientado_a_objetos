@@ -39,3 +39,24 @@ class Filme{
 
 
 }
+
+/*
+ Objetos são instancias de classes 
+ por exemplo a classe fime pode gerar varios objetos filme 
+ cada um com seu titulo,genero,ano .... 
+
+Abaixo eu tenho 3 objtos gerados com base na classe filme,
+primeiro eu faço a definição do nome da variavel depois eu 
+atribuo o valor da classe a ela, isso faz com que ela tenha acesso 
+a todos os metodos da classe filme, isso torna ela um objeto,
+que pertence a classe filme.
+
+
+var vingadores = new Filme();
+ 
+
+*/
+
+var vingadores = new Filme();
+var hulk = new Filme();
+var starWars = new Filme();
