@@ -14,7 +14,7 @@ por exemplo um objeto da classe jogo tem:
 então todo o objeto que tiver esses atributos se encaixa na classe jogo, 
 será classificado como um jogo. 
 
-E já que o computador sabe disso o jogo pode ser manipulado de forma logica 
+E já que o computador sabe disso o jogo pode ser manipulado de forma lógica 
 uma vez que classe dele ja existe.
 
 eu posso criar varios jogos com base nela com caracteristicas diferentes, ou seja 
